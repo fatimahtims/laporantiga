@@ -1,8 +1,8 @@
 <?php
  
- $k="laporan";
+ $k="laporan"; // deklarasi variable k
  
- $l="mid";
+ $l="mid"; // deklarasi variable l
  	
  	echo $k+$l;
  ?>
